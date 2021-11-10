@@ -1,0 +1,16 @@
+walidacja-proces sprawdzania strony internetowej za pomoca specjalnego programu lub innej strony internetowej pod k¹tem czy niema blêdów sk³adniowych.
+
+strone ktora chcemy sprawdzic wgrywamy do specjalnej profesjonalnej strony a strona ta poda gdzie mamy bledy oraz powody bledow. 
+
+
+
+wykonac zalozyc 7 link o tresci walidacja ktory poprowadzi do strony nazwisko_walidacja_2F2.html a na stronie tej bedzie przycisk wroc oraz definicja walidatora oraz 2 zrzuty ekranu z walidatora (1 przed poprawieniem bledow, 2 po poprawieniu bledow) na zrzutach ekranu w paincie zapisujemy czerweonymi literami nazwisko ucznia
+
+
+
+praca domowa 
+1.
+skonczyc zadanie 7 umiescic na githubie 
+2.
+wykonac projekt tabeli w wordzie lub open officie. tabela ma conajmniej 36 komorek (strona 96) ma 1 ³¹æzenie w pionie i poziomie zawiera dane komputerowe rozne kolory obramowania
+tabela_nazwisko_klasa_grupa
