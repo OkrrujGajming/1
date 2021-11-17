@@ -1,0 +1,14 @@
+
+
+na kartce formatu A4 olowiek i linijka wykonac projekt formularza zawierajacego wszystkie elementy stosowane w formularzu.
+
+formularz powinien zajmowac cala kartke formatu a4 
+u gory powinien byc podpisany: imie,nazwisko,klasa,grupa
+
+(strona 84)
+
+
+sprawdzane bedzie: 
+zadanie 7
+projekt tabeli
+projekt formularza
